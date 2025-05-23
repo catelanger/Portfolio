@@ -87,13 +87,43 @@ EDA | Classification | Regression | Clustering | A/B Testing | Time Series
 Data Modeling | Predictive Analytics | Feature Engineering | Business Intelligence
 
 ---
+## 📘 DataCamp Projects
 
+These projects were completed through DataCamp’s hands-on learning platform and focus on real-world scenarios in analytics, SQL, and business insights.
+
+### 🏍️ Analyzing Motorcycle Part Sales
+**Goal:** Analyze historical motorcycle part sales to uncover patterns and recommend inventory and pricing strategies.  
+**Skills:** Exploratory Data Analysis, Time Series Aggregation, Business Insight  
+**Tools:** Python, Pandas, Seaborn
+
+---
+
+### 🧠 Analyzing Students' Mental Health
+**Goal:** Investigate student mental health trends and correlations with external factors like academic pressure and lifestyle.  
+**Skills:** Data Cleaning, Correlation Analysis, Visualization  
+**Tools:** Python, Pandas, Matplotlib
+
+---
+
+### 🏭 Evaluate a Manufacturing Process
+**Goal:** Diagnose inefficiencies in a manufacturing workflow and recommend data-driven process improvements.  
+**Skills:** Statistical Summary, Outlier Detection, Process Control  
+**Tools:** Python, Plotly, Pandas
+
+---
+
+### 🧾 SQL for Business Analysts
+**Goal:** Solve key business questions using advanced SQL techniques and present executive-level reports.  
+**Skills:** SQL Joins, Window Functions, Aggregation, Subqueries, CTEs  
+**Tools:** PostgreSQL / MySQL
+
+---
 ## 🔗 External Portfolios
 
 - [Great Learning E-Portfolio 1 (PL-300 & BI)](https://www.mygreatlearning.com/eportfolio/catherine-langer3)  
 - [Great Learning E-Portfolio 2 (COVID Forecasting & ML)](https://www.mygreatlearning.com/eportfolio/catherine-langer2)  
 - [Great Learning Capstone Portfolio](https://www.mygreatlearning.com/eportfolio/catherine-langer3)
-
+- [View My DataCamp Portfolio](https://www.datacamp.com/portfolio/clangershoppingcart)
 ---
 
 ## 📫 Contact
